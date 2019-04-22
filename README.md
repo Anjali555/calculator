@@ -2,7 +2,7 @@ Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
-[![Build Status](https://dev.azure.com/cltdevopsorg/DevOpsLab/_apis/build/status/Anjali555.calculator?branchName=master)](https://dev.azure.com/cltdevopsorg/DevOpsLab/_build/latest?definitionId=3&branchName=master)
+[![Build Status](https://dev.azure.com/cltdevopsorg/PartsUnlimited/_apis/build/status/Anjali555.calculator?branchName=master)](https://dev.azure.com/cltdevopsorg/PartsUnlimited/_build/latest?definitionId=6&branchName=master)
 
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
